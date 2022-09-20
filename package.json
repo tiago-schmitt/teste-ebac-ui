@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/tiago-schmitt/teste-ebac-ui#readme",
   "devDependencies": {
+    "@faker-js/faker": "^7.5.0",
     "cypress": "^10.8.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
   }
 }
